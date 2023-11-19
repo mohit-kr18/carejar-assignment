@@ -110,7 +110,7 @@ const services = [
                 img:"https://www.kauveryhospital.com/doctorimage/recent/Dr-suraj2020-02-03%2008:42:36am.jpg",
                 specialist:"Cardiologist",
                 experience:"15 years experience overall",
-                location:"Ghaziabad,Uttar Pradesh . Dr. Piyush's Cardiologist Clinic",
+                location:"Ghaziabad,Uttar Pradesh . Dr. Piyush's  Clinic",
                 fee:"₹ 800 Consultation at clinic",
             },
             

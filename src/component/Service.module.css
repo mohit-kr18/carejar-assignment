@@ -3,12 +3,10 @@
     flex-direction: column;
     text-decoration: none;
     gap: 1rem;
-    width: 30%;
-    /* border: 2px solid rgb(179, 177, 177); */
 }
 
 .service img{
-    height: 350px;
+    height: 250px;
     object-fit: cover;
     border-radius: 0.3rem;
 } 

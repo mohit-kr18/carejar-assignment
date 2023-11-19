@@ -2,9 +2,7 @@
     display: flex;
     margin: 0 auto;
     padding: 1rem; 
-    gap: 1rem;
-    /* border : 2px solid gray; */
-    
+    gap: 1rem; 
 }
 
 .appointment img{
@@ -17,9 +15,9 @@
 .middle_section{
     display: flex;
     flex-direction: column;
-    /* border: 2px solid gray; */
     gap: 1rem;
     padding: 1rem;
+    max-width: 300px;
 }
 
 .middle_section h2{
@@ -52,7 +50,6 @@
     flex-direction: column;
     gap: 0.6rem;
     justify-content:flex-end;
-    /* border: 2px solid gray; */
     padding: 1rem;
     color: white;
    
