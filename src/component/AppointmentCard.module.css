@@ -1,0 +1,71 @@
+.appointment{
+    display: flex;
+    margin: 0 auto;
+    padding: 1rem; 
+    gap: 1rem;
+    /* border : 2px solid gray; */
+    
+}
+
+.appointment img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: auto 0;
+}
+
+.middle_section{
+    display: flex;
+    flex-direction: column;
+    /* border: 2px solid gray; */
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.middle_section h2{
+    color: rgb(26, 180, 241);
+    font-weight: 470;
+}
+
+.middle_section p,h5{
+    font-weight: 500;
+    font-size: 0.9rem;
+}
+
+.middle_section p{
+    color: rgb(168, 167, 167);
+}
+
+.middle_bottom{
+    display: flex;
+    gap: 1rem;
+    align-items:flex-end;
+}
+
+.middle_bottom p{
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+.right_section{
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+    justify-content:flex-end;
+    /* border: 2px solid gray; */
+    padding: 1rem;
+    color: white;
+   
+}
+
+.available{
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+}
+
+.available p{
+    color: green;
+    font-weight: 600;
+}
+

@@ -1,0 +1,35 @@
+.service{
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    gap: 1rem;
+    width: 30%;
+    /* border: 2px solid rgb(179, 177, 177); */
+}
+
+.service img{
+    height: 350px;
+    object-fit: cover;
+    border-radius: 0.3rem;
+} 
+
+
+.service_desp{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    
+}
+
+.service h3{
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: rgb(68, 66, 66);
+}
+
+.service p{
+    font-size: 1rem;
+    font-weight: 400;
+    color: rgb(119, 117, 117);
+}
+

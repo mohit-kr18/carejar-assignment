@@ -1,0 +1,54 @@
+
+.header_wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:0.6rem 1rem;
+    border-bottom: 1px solid rgb(179, 177, 177);
+    background-color: white;
+   
+}
+
+.right_section{
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    font-size: 1.2rem;
+    gap: 1rem;
+    padding:0 1rem;
+}
+
+.left_section{
+    font-weight: 700;
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.btn{
+    background-color: rgb(30, 194, 239);
+    color: white;
+    padding:0.4rem 1rem;
+    border-radius: 0.5rem;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+}
+
+.search{
+    cursor: pointer;
+
+}
+
+.search_wrapper{
+    display: flex;
+    align-items: center;
+    border: 1px solid rgb(179, 177, 177);
+    border-radius: 0.5rem;
+    padding:0.2rem 0.5rem;
+    margin-right: 1rem;
+}
+
+.search_wrapper input{
+    outline: none;
+    border: none;
+}
